@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\DELL 3340\\Desktop\\Solidity project\\chatapp\\chatapp\\contracts\\ChatApp.sol": {
+      "lastModificationDate": 1689415245037,
+      "contentHash": "04dc55803f6b7175c4341e301fb656c5",
+      "sourceName": "contracts/ChatApp.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "ChatApp"
+      ]
+    }
+  }
+}
